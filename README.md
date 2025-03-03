@@ -8,10 +8,10 @@ you really have no idea where to start. A lot of it was hard memory-management a
 operational design patterns but my brain eventually stopped resisting and it started to become clearer.
 
 A Custom Built Operating System and Kernel also Linking:
-https://github.com/TomAndJerrys2/Coffee-UI
-https://github.com/TomAndJerrys2/Coffee-Editor
-https://github.com/TomAndJerrys2/Coffee-Emulator
-https://github.com/TomAndJerrys2/Coffee-SQL
-https://github.com/TomAndJerrys2/Coffee-Chat
+- https://github.com/TomAndJerrys2/Coffee-UI
+- https://github.com/TomAndJerrys2/Coffee-Editor
+- https://github.com/TomAndJerrys2/Coffee-Emulator
+- https://github.com/TomAndJerrys2/Coffee-SQL
+- https://github.com/TomAndJerrys2/Coffee-Chat
 
 - Browser, Virtual Container system (similar to docker) and CoffeeLang are coming in the next wave of projects :)
